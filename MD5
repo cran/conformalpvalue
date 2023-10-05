@@ -1,0 +1,8 @@
+3408311192f335057d47404a2cb69cc2 *DESCRIPTION
+6b16cbbf46abff89fb52ee766c1d1fac *LICENSE
+aed87374810b46fd636a9e9524f64ff5 *NAMESPACE
+9a32f297735b3053a2d7d0f2b4f5197b *R/myfunction.R
+ee4b799c14a58388653da0c8b012e1ab *README.md
+e0ad1d8319f428fafa8a9264903f3888 *man/conformal_pvalues.Rd
+2627b9ea60565b87069cdd8d64025355 *tests/testthat.R
+7300522abc4352f954c5dda741c8841b *tests/testthat/test_with_conformal_pvalues.R
